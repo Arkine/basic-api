@@ -11,4 +11,5 @@ export default {
     appOutput: resolveApp('public'),
     appHtml: resolveApp('public/index.html'),
     appSrc: resolveApp('src'),
+    appTemplate: resolveApp('./template.html')
 }
