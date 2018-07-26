@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "arkine <slyngstad55@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^3.6.1"
+  }
 }
